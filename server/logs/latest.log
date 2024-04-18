@@ -238,3 +238,34 @@ Caused by: java.lang.IllegalStateException: zip file closed
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	... 9 more
 [22:21:50] [Server thread/INFO]: You have successfully installed the AUTHME plugin!
+[22:22:58] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[22:22:58] [Server thread/INFO]: Stopping server
+[22:22:58] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[22:22:58] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.0
+[22:22:58] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[22:22:58] [Server thread/INFO]: [[EaglerPluginUpdater]] Disabling EaglerPluginUpdater v1.1.2
+[22:22:58] [Server thread/INFO]: --------------------------------------------
+[22:22:58] [Server thread/INFO]: --------------------------------------------
+[22:22:58] [Server thread/INFO]: [EaglerPluginUpdater] EaglerPluginUpdater V1.1.2 is now Disabled! D:
+[22:22:58] [Server thread/INFO]: --------------------------------------------
+[22:22:58] [Server thread/INFO]: --------------------------------------------
+[22:22:58] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[22:22:58] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[22:22:58] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
+[22:22:58] [Server thread/INFO]: --------------------------------------------
+[22:22:58] [Server thread/INFO]: --------------------------------------------
+[22:22:58] [Server thread/INFO]: [EaglerPluginInstaller] PluginInstaller V1.1.5 is now Disabled! D:
+[22:22:58] [Server thread/INFO]: --------------------------------------------
+[22:22:58] [Server thread/INFO]: --------------------------------------------
+[22:22:58] [Server thread/INFO]: Saving players
+[22:22:58] [Server thread/INFO]: Saving worlds
+[22:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:23:02] [Server thread/INFO]: Flushing Chunk IO
+[22:23:02] [Server thread/INFO]: Closing Thread Pool
+[22:23:02] [Server thread/INFO]: Closing Server
