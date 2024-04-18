@@ -888,6 +888,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-04-17 23:39:17 +0000",
       "minecraft:zombified_piglin": "2024-04-18 17:47:38 +0000",
+      "minecraft:enderman": "2024-04-18 21:12:23 +0000",
       "minecraft:zombie": "2024-04-18 01:03:32 +0000"
     },
     "done": false
