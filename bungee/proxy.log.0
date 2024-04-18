@@ -936,3 +936,104 @@ Reason: §fBanned by an operator.
 17d6017b227472616e736c617465223a
 22:19:22 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
 22:19:22 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has disconnected
+22:20:01 [INFO] Closing listener [id: 0x66405ee5, L:/127.0.0.1:25577]
+22:20:01 [INFO] Closing pending connections
+22:20:01 [INFO] Disconnecting 0 connections
+22:20:02 [INFO] Disabling plugins
+22:20:02 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+22:20:02 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+22:20:02 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+22:20:04 [INFO] Closing IO threads
+22:20:20 [INFO] Using mbed TLS based native cipher.
+22:20:20 [INFO] Using zlib based native compressor.
+22:20:20 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:84d0ea7:1813
+22:20:20 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+22:20:20 [INFO] Epoll is working, utilising it!
+22:20:20 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+22:20:20 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+22:20:20 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+22:20:20 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+22:20:20 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+22:20:20 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+22:20:20 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+22:20:20 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+22:20:20 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:20 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:20 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:20 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:20 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:20 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+22:20:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:20 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+22:20:20 [WARNING] :>  
+22:20:20 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+22:20:20 [WARNING] :>  
+22:20:20 [WARNING] :>  This plugin wasn't tested to be 'working'
+22:20:20 [WARNING] :>  with ANY version of BungeeCord (and forks)
+22:20:20 [WARNING] :>  apart from the versions listed below:
+22:20:20 [WARNING] :>  
+22:20:20 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+22:20:20 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+22:20:20 [WARNING] :>  - FlameCord: 1.1.1
+22:20:20 [WARNING] :>  
+22:20:20 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+22:20:20 [WARNING] :>  
+22:20:20 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+22:20:20 [WARNING] :>  
+22:20:20 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+22:20:21 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+22:20:22 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+22:20:22 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+22:20:22 [WARNING] Forced host server pvp is not defined
+22:20:22 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+22:20:23 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-1.19-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+22:20:23 [INFO] [ViaVersion] Loading block connection mappings ...
+22:20:24 [INFO] [ViaBackwards] Loading translations...
+22:20:24 [INFO] [ViaBackwards] Registering protocols...
+22:20:24 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+22:20:24 [INFO] [ViaVersion] Highest supported version by the proxy: 1.20.3/1.20.4 (765)
+22:20:24 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+22:20:24 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+22:20:24 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+22:20:24 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:24 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:24 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:24 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:24 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:24 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+22:20:24 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:20:24 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+22:20:24 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+22:20:25 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+22:20:25 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+22:20:25 [INFO] Listening on /127.0.0.1:25577
+22:20:39 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
+22:20:41 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46862]: Connected via websocket
+22:20:41 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46862]: Origin header is null
+22:20:41 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46862]: Logged in as 'ThunderGod12650'
+22:20:41 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+22:20:42 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+22:20:56 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+22:21:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55962]: Connected via websocket
+22:21:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55962]: Origin header is null
+22:21:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55962]: Logged in as 'ThunderGod12650'
+22:21:00 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+22:21:00 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+22:21:02 [SEVERE] [ThunderGod12650] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during server login process!
+17d6017b227472616e736c617465223a
+22:21:02 [INFO] [ThunderGod12650] disconnected with: §f§cException Connecting: QuietException : Unexpected packet received during server login process!
+17d6017b227472616e736c617465223a
+22:21:02 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has disconnected
+22:21:03 [SEVERE] [ThunderGod12650] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during server login process!
+176d7b227472616e736c617465223a22
+22:21:03 [INFO] [ThunderGod12650] disconnected with: §f§cException Connecting: QuietException : Unexpected packet received during server login process!
+176d7b227472616e736c617465223a22
+22:21:03 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+22:21:03 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has disconnected
+22:21:40 [INFO] §cCommand not found

@@ -1,262 +1,218 @@
-[22:16:40] [ServerMain/INFO]: Building unoptimized datafixer
-[22:16:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:16:47] [ServerMain/INFO]: Loaded 7 recipes
-[22:16:51] [Server thread/INFO]: Starting minecraft server version 1.19
-[22:16:51] [Server thread/INFO]: Loading properties
-[22:16:51] [Server thread/INFO]: This server is running Paper version git-Paper-81 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 86f87ba)
-[22:16:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:16:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:16:52] [Server thread/INFO]: Default game type: SURVIVAL
-[22:16:52] [Server thread/INFO]: Generating keypair
-[22:16:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:16:52] [Server thread/INFO]: Using epoll channel type
-[22:16:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:16:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[22:16:52] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
-[22:16:53] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[22:16:58] [Server thread/WARN]: Legacy plugin EaglerPluginInstaller v1.1.4 does not specify an api-version.
-[22:16:59] [Server thread/WARN]: Legacy plugin EaglerPluginUpdater v1.1.2 does not specify an api-version.
-[22:16:59] [Server thread/WARN]: Legacy plugin Essentials v2.11.1 does not specify an api-version.
-[22:16:59] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
-[22:16:59] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[22:16:59] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[22:16:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[22:17:00] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[22:17:00] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[22:17:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[22:17:00] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
-[22:17:00] [Server thread/INFO]: [Essentials] Loading Essentials v2.11.1
-[22:17:00] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[22:17:00] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
-[22:17:02] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[22:17:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:17:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[22:17:02] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[22:17:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:17:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:17:02] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[22:17:02] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[22:17:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:17:02] [Server thread/INFO]: Preparing level "world"
-[22:17:03] [Server thread/INFO]: -------- World Settings For [world] --------
-[22:17:03] [Server thread/INFO]: View Distance: 10
-[22:17:03] [Server thread/INFO]: Simulation Distance: 10
-[22:17:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:17:03] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:17:03] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:17:03] [Server thread/INFO]: Mob Spawn Range: 4
-[22:17:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[22:17:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:17:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:17:03] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:17:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Potato Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[22:17:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[22:17:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:17:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[22:17:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[22:17:03] [Server thread/INFO]: Max TNT Explosions: 100
-[22:17:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:17:04] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[22:17:04] [Server thread/INFO]: View Distance: 10
-[22:17:04] [Server thread/INFO]: Simulation Distance: 10
-[22:17:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:17:04] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:17:04] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:17:04] [Server thread/INFO]: Mob Spawn Range: 4
-[22:17:04] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[22:17:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:17:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:17:04] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:17:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Potato Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[22:17:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[22:17:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:17:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[22:17:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[22:17:04] [Server thread/INFO]: Max TNT Explosions: 100
-[22:17:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:17:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[22:17:20] [Server thread/INFO]: View Distance: 10
-[22:17:20] [Server thread/INFO]: Simulation Distance: 10
-[22:17:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:17:20] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:17:20] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:17:20] [Server thread/INFO]: Mob Spawn Range: 4
-[22:17:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[22:17:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:17:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:17:20] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:17:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Potato Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[22:17:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[22:17:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:17:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[22:17:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[22:17:20] [Server thread/INFO]: Max TNT Explosions: 100
-[22:17:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:17:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:17:21] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:21] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:21] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:22] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:22] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:23] [Server thread/INFO]: Time elapsed: 2583 ms
-[22:17:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:17:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:24] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:24] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:25] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:25] [Server thread/INFO]: Time elapsed: 2120 ms
-[22:17:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:17:25] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:25] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:26] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:26] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:27] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:27] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:28] [Server thread/INFO]: Time elapsed: 2828 ms
-[22:17:28] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4*
-[22:17:28] [Server thread/INFO]: [[EaglerPluginInstaller]] [STDOUT] Check 1 passed
-[22:17:28] [Server thread/WARN]: Nag author(s): '[BongoCat]' of 'EaglerPluginInstaller' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[22:17:30] [Server thread/INFO]: [[EaglerPluginInstaller]] [STDOUT] Check 3 passed
-[22:17:30] [Server thread/INFO]: --------------------------------------------
-[22:17:30] [Server thread/INFO]: --------------------------------------------
-[22:17:30] [Server thread/INFO]: [EaglerPluginInstaller] EaglerPluginInstaller V1.1.5 is now Enabled! :D
-[22:17:30] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin
-[22:17:30] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console
-[22:17:30] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main
-[22:17:30] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add
-[22:17:30] [Server thread/INFO]: --------------------------------------------
-[22:17:30] [Server thread/INFO]: --------------------------------------------
-[22:17:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[22:17:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.19 (759)
-[22:17:30] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2*
-[22:17:31] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: [EaglerPluginInstaller] PluginInstaller V1.1.5 is now Disabled! D:
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4*
-[22:17:31] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader EaglerPluginInstaller v1.1.4
-[22:17:31] [Server thread/INFO]: [[EaglerPluginInstaller]] [STDOUT] Check 1 passed
-[22:17:31] [Server thread/INFO]: [[EaglerPluginInstaller]] [STDOUT] Check 3 passed
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: [EaglerPluginInstaller] EaglerPluginInstaller V1.1.5 is now Enabled! :D
-[22:17:31] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin
-[22:17:31] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console
-[22:17:31] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main
-[22:17:31] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: [EaglerPluginUpdater] EaglerPluginUpdater V1.1.2 is now Enabled! :D
-[22:17:31] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: --------------------------------------------
-[22:17:31] [Server thread/INFO]: [Essentials] Enabling Essentials v2.11.1*
-[22:17:31] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[22:17:31] [Server thread/INFO]: git-Paper-81 (MC: 1.19)
-[22:17:31] [Server thread/INFO]: 1.19-R0.1-SNAPSHOT
-[22:17:31] [Server thread/INFO]: Creating config from template: /workspaces/EaglercraftX-1.19-Server/server/plugins/Essentials/worth.yml
-[22:17:31] [Server thread/ERROR]: Error occurred while enabling Essentials v2.11.1 (Is it up to date?)
-java.lang.NoSuchMethodError: 'com.google.common.cache.Cache com.google.common.cache.CacheBuilder.build(com.google.common.cache.CacheLoader)'
-	at com.earth2me.essentials.UserMap.<init>(UserMap.java:19) ~[Essentials.jar:?]
-	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:178) ~[Essentials.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563) ~[paper-1.19.jar:git-Paper-81]
-	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:634) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:420) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:306) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1122) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[22:17:31] [Server thread/INFO]: [Essentials] Disabling Essentials v2.11.1
-[22:17:31] [Server thread/ERROR]: Error occurred while disabling Essentials v2.11.1 (Is it up to date?)
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:294) ~[Essentials.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:399) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:579) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:374) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563) ~[paper-1.19.jar:git-Paper-81]
-	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:634) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:420) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:306) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1122) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[22:17:31] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[22:17:31] [Server thread/INFO]: Running delayed init tasks
-[22:17:31] [Server thread/INFO]: Done (40.364s)! For help, type "help"
-[22:17:31] [Server thread/INFO]: Timings Reset
-[22:17:31] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[22:17:36] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[22:17:49] [Server thread/WARN]: Unexpected exception while parsing console command "plist"
+[22:20:22] [ServerMain/INFO]: Building unoptimized datafixer
+[22:20:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:20:27] [ServerMain/INFO]: Loaded 7 recipes
+[22:20:30] [Server thread/INFO]: Starting minecraft server version 1.19
+[22:20:30] [Server thread/INFO]: Loading properties
+[22:20:30] [Server thread/INFO]: This server is running Paper version git-Paper-81 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 86f87ba)
+[22:20:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:20:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:20:31] [Server thread/INFO]: Default game type: SURVIVAL
+[22:20:31] [Server thread/INFO]: Generating keypair
+[22:20:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:20:31] [Server thread/INFO]: Using epoll channel type
+[22:20:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:20:31] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:20:31] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
+[22:20:32] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:20:38] [Server thread/WARN]: Legacy plugin EaglerPluginInstaller v1.1.4 does not specify an api-version.
+[22:20:38] [Server thread/WARN]: Legacy plugin EaglerPluginUpdater v1.1.2 does not specify an api-version.
+[22:20:38] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
+[22:20:38] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[22:20:38] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[22:20:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:20:39] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:20:39] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:20:39] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:20:39] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
+[22:20:39] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[22:20:39] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
+[22:20:41] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[22:20:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:20:41] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[22:20:41] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[22:20:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:20:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:20:41] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[22:20:41] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[22:20:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:20:41] [Server thread/INFO]: Preparing level "world"
+[22:20:41] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:20:41] [Server thread/INFO]: View Distance: 10
+[22:20:41] [Server thread/INFO]: Simulation Distance: 10
+[22:20:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:20:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:20:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:20:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[22:20:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[22:20:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[22:20:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:20:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:20:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:20:41] [Server thread/INFO]: Mob Spawn Range: 4
+[22:20:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:20:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:20:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:20:41] [Server thread/INFO]: Max TNT Explosions: 100
+[22:20:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:20:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:20:42] [Server thread/INFO]: View Distance: 10
+[22:20:42] [Server thread/INFO]: Simulation Distance: 10
+[22:20:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:20:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:20:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:20:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[22:20:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[22:20:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[22:20:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:20:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:20:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:20:42] [Server thread/INFO]: Mob Spawn Range: 4
+[22:20:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:20:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:20:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:20:42] [Server thread/INFO]: Max TNT Explosions: 100
+[22:20:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:20:55] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:20:55] [Server thread/INFO]: View Distance: 10
+[22:20:55] [Server thread/INFO]: Simulation Distance: 10
+[22:20:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:20:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:20:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:20:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[22:20:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[22:20:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[22:20:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:20:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:20:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:20:55] [Server thread/INFO]: Mob Spawn Range: 4
+[22:20:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:20:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:20:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:20:55] [Server thread/INFO]: Max TNT Explosions: 100
+[22:20:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:20:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:20:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:20:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:20:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:20:57] [Server thread/INFO]: Preparing spawn area: 0%
+[22:20:57] [Server thread/INFO]: Preparing spawn area: 0%
+[22:20:58] [Server thread/INFO]: Preparing spawn area: 0%
+[22:20:58] [Server thread/INFO]: Time elapsed: 2708 ms
+[22:20:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:20:58] [Server thread/INFO]: Preparing spawn area: 0%
+[22:20:59] [Server thread/INFO]: Preparing spawn area: 0%
+[22:20:59] [Server thread/INFO]: Preparing spawn area: 0%
+[22:21:00] [Server thread/INFO]: Preparing spawn area: 0%
+[22:21:00] [Server thread/INFO]: Time elapsed: 1708 ms
+[22:21:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:21:00] [Server thread/INFO]: Preparing spawn area: 0%
+[22:21:00] [Server thread/INFO]: Preparing spawn area: 0%
+[22:21:01] [Server thread/INFO]: Preparing spawn area: 0%
+[22:21:01] [Server thread/INFO]: Time elapsed: 1196 ms
+[22:21:01] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4*
+[22:21:01] [Server thread/INFO]: [[EaglerPluginInstaller]] [STDOUT] Check 1 passed
+[22:21:01] [Server thread/WARN]: Nag author(s): '[BongoCat]' of 'EaglerPluginInstaller' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:21:02] [Server thread/INFO]: [[EaglerPluginInstaller]] [STDOUT] Check 3 passed
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: [EaglerPluginInstaller] EaglerPluginInstaller V1.1.5 is now Enabled! :D
+[22:21:02] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin
+[22:21:02] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console
+[22:21:02] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main
+[22:21:02] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[22:21:02] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.19 (759)
+[22:21:02] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2*
+[22:21:02] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: [EaglerPluginInstaller] PluginInstaller V1.1.5 is now Disabled! D:
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4*
+[22:21:02] [Server thread/WARN]: Enabled plugin with unregistered PluginClassLoader EaglerPluginInstaller v1.1.4
+[22:21:02] [Server thread/INFO]: [[EaglerPluginInstaller]] [STDOUT] Check 1 passed
+[22:21:02] [Server thread/INFO]: [[EaglerPluginInstaller]] [STDOUT] Check 3 passed
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: [EaglerPluginInstaller] EaglerPluginInstaller V1.1.5 is now Enabled! :D
+[22:21:02] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin
+[22:21:02] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console
+[22:21:02] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main
+[22:21:02] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: [EaglerPluginUpdater] EaglerPluginUpdater V1.1.2 is now Enabled! :D
+[22:21:02] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: --------------------------------------------
+[22:21:02] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[22:21:02] [Server thread/INFO]: Running delayed init tasks
+[22:21:02] [Server thread/INFO]: Done (32.552s)! For help, type "help"
+[22:21:02] [Server thread/INFO]: Timings Reset
+[22:21:02] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[22:21:44] [Server thread/WARN]: Unexpected exception while parsing console command "plist"
 org.bukkit.command.CommandException: Unhandled exception executing command 'plist' in plugin EaglerPluginInstaller v1.1.4
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
@@ -281,34 +237,4 @@ Caused by: java.lang.IllegalStateException: zip file closed
 	at tech.nully.PluginInstaller.Commands.plistCommand.onCommand(plistCommand.java:15) ~[EaglerPluginInstaller.jar:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	... 9 more
-[22:17:55] [Server thread/INFO]: That is not a valid page number!
-[22:17:58] [Server thread/WARN]: Unexpected exception while parsing console command "plist 5"
-org.bukkit.command.CommandException: Unhandled exception executing command 'plist' in plugin EaglerPluginInstaller v1.1.4
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
-	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchServerCommand(CraftServer.java:872) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:473) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1415) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalStateException: zip file closed
-	at java.util.zip.ZipFile.ensureOpen(ZipFile.java:846) ~[?:?]
-	at java.util.zip.ZipFile.getEntry(ZipFile.java:338) ~[?:?]
-	at java.util.jar.JarFile.getEntry(JarFile.java:516) ~[?:?]
-	at java.util.jar.JarFile.getJarEntry(JarFile.java:471) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:163) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:108) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at tech.nully.PluginInstaller.Commands.plistCommand.onCommand(plistCommand.java:45) ~[EaglerPluginInstaller.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	... 9 more
-[22:18:00] [Server thread/INFO]: /plist
-[22:18:02] [Server thread/INFO]: /plist
-[22:18:02] [Server thread/INFO]: /plist
-[22:18:04] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[22:19:34] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:21:50] [Server thread/INFO]: You have successfully installed the AUTHME plugin!
