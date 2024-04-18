@@ -311,3 +311,4 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [22:18:02] [Server thread/INFO]: /plist
 [22:18:02] [Server thread/INFO]: /plist
 [22:18:04] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:19:34] [Server thread/INFO]: Unknown command. Type "/help" for help.
