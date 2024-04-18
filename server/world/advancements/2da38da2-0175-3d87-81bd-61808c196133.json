@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-04-18 12:50:01 +0000",
+      "minecraft:birch_forest": "2024-04-18 12:49:58 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
