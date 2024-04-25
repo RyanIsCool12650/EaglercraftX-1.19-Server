@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-04-19 13:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-04-18 17:45:00 +0000"
@@ -548,6 +554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-04-19 13:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-04-18 16:33:46 +0000"
@@ -707,6 +719,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-04-17 23:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-04-19 13:24:57 +0000"
     },
     "done": true
   },
@@ -887,6 +905,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-04-17 23:39:17 +0000",
+      "minecraft:creeper": "2024-04-19 13:09:37 +0000",
       "minecraft:zombified_piglin": "2024-04-18 17:47:38 +0000",
       "minecraft:enderman": "2024-04-18 21:12:23 +0000",
       "minecraft:zombie": "2024-04-18 01:03:32 +0000"
@@ -1658,6 +1677,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_the_recipe": "2024-04-18 16:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-04-19 13:10:13 +0000"
     },
     "done": true
   },

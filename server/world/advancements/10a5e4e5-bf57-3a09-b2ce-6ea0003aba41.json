@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-04-18 17:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-04-18 17:22:34 +0000"
@@ -176,12 +182,6 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-04-18 17:22:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-04-18 17:21:52 +0000"
     },
     "done": true
   },
@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-04-19 13:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-04-18 13:09:01 +0000"
@@ -334,6 +340,12 @@
       "has_iron_ingot": "2024-04-18 16:47:00 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2024-04-19 13:10:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -509,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-04-19 13:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-04-18 15:59:11 +0000"
@@ -609,6 +627,7 @@
     "criteria": {
       "minecraft:taiga": "2024-04-18 12:51:22 +0000",
       "minecraft:birch_forest": "2024-04-18 12:50:08 +0000",
+      "minecraft:river": "2024-04-19 13:13:55 +0000",
       "minecraft:dripstone_caves": "2024-04-18 12:50:42 +0000",
       "minecraft:forest": "2024-04-18 12:51:30 +0000",
       "minecraft:plains": "2024-04-18 16:46:30 +0000"
@@ -684,6 +703,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-04-18 16:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-04-19 13:10:02 +0000"
     },
     "done": true
   },
@@ -819,15 +844,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-04-18 17:22:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-04-18 17:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-04-18 17:22:34 +0000"
     },
     "done": true
   },
@@ -837,15 +862,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-04-18 17:22:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-04-18 17:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-04-18 17:22:34 +0000"
     },
     "done": true
   },
@@ -867,6 +892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-04-19 13:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-04-18 16:52:33 +0000"
@@ -875,7 +906,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-04-18 15:59:11 +0000"
+      "minecraft:skeleton": "2024-04-18 15:59:11 +0000",
+      "minecraft:creeper": "2024-04-19 13:10:35 +0000"
     },
     "done": false
   },
