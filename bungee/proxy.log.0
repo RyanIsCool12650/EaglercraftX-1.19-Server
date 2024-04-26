@@ -4818,3 +4818,5 @@ java.lang.NullPointerException: Plugin must have a plugin.yml or bungee.yml
 02:34:32 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:58252]: Logged in as 'MysticalMC_YT'
 02:34:32 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
 02:34:32 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+02:34:47 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:34:49 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
