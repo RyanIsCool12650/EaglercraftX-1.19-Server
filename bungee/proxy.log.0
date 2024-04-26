@@ -3702,3 +3702,1038 @@ Reason: §fBanned by an operator.
 22:32:10 [WARNING] Event LoginEvent(cancelled=false, reason=null, connection=[RyanIsCool12650,/[0:0:0:0:0:0:0:1%0]:42412] <-> InitialHandler) took 300ms to process!
 22:32:10 [WARNING] Event PreLoginEvent(cancelled=false, reason=null, connection=[RyanIsCool12650,/[0:0:0:0:0:0:0:1%0]:42412] <-> InitialHandler) took 300ms to process!
 22:32:10 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+22:46:28 [INFO] [RyanIsCool12650] disconnected with: §fServer is restarting
+22:46:28 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+22:46:28 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+22:46:38 [INFO] Closing listener [id: 0x92d05939, L:/127.0.0.1:25577]
+22:46:38 [INFO] Closing pending connections
+22:46:38 [INFO] Disconnecting 0 connections
+22:46:38 [INFO] Disabling plugins
+22:46:38 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+22:46:38 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+22:46:38 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+22:46:40 [INFO] Closing IO threads
+22:46:43 [INFO] Using mbed TLS based native cipher.
+22:46:43 [INFO] Using zlib based native compressor.
+22:46:43 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:84d0ea7:1813
+22:46:43 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+22:46:43 [INFO] Epoll is working, utilising it!
+22:46:43 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+22:46:43 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+22:46:43 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+22:46:43 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+22:46:43 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+22:46:43 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+22:46:44 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+22:46:44 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+22:46:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:44 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+22:46:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:44 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+22:46:44 [WARNING] :>  
+22:46:44 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+22:46:44 [WARNING] :>  
+22:46:44 [WARNING] :>  This plugin wasn't tested to be 'working'
+22:46:44 [WARNING] :>  with ANY version of BungeeCord (and forks)
+22:46:44 [WARNING] :>  apart from the versions listed below:
+22:46:44 [WARNING] :>  
+22:46:44 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+22:46:44 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+22:46:44 [WARNING] :>  - FlameCord: 1.1.1
+22:46:44 [WARNING] :>  
+22:46:44 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+22:46:44 [WARNING] :>  
+22:46:44 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+22:46:44 [WARNING] :>  
+22:46:44 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+22:46:44 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+22:46:46 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+22:46:46 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+22:46:46 [WARNING] Forced host server pvp is not defined
+22:46:46 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+22:46:47 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-1.19-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
+22:46:47 [INFO] [ViaVersion] Loading block connection mappings ...
+22:46:48 [INFO] [ViaBackwards] Loading translations...
+22:46:48 [INFO] [ViaBackwards] Registering protocols...
+22:46:49 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+22:46:49 [INFO] [ViaVersion] Highest supported version by the proxy: 1.20.3/1.20.4 (765)
+22:46:49 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+22:46:49 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+22:46:49 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+22:46:49 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:49 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:49 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:49 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:49 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:49 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+22:46:49 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+22:46:49 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+22:46:49 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+22:46:50 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+22:46:50 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+22:46:50 [INFO] Listening on /127.0.0.1:25577
+22:46:51 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
+22:46:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44022]: Connected via websocket
+22:46:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44022]: Origin header is null
+22:46:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44022]: Logged in as 'RyanIsCool12650'
+22:46:53 [SEVERE] [EaglercraftXBungee] Exception in thread "EaglerXBungee: Network Tick Tasks"! java.lang.NullPointerException: Cannot read field "TO_CLIENT" because "encodeProtocol" is null
+22:46:53 [SEVERE] java.lang.NullPointerException: Cannot read field "TO_CLIENT" because "encodeProtocol" is null
+
+22:46:53 [SEVERE] 	at net.md_5.bungee.UserConnection.sendPacketQueued(UserConnection.java:190)
+
+22:46:53 [SEVERE] 	at net.md_5.bungee.UserConnection.sendData(UserConnection.java:550)
+
+22:46:53 [SEVERE] 	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.server.EaglerPipeline$1.run(EaglerPipeline.java:133)
+
+22:46:53 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+
+22:46:53 [SEVERE] 	at java.base/java.util.TimerThread.run(Timer.java:516)
+
+22:46:53 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+22:46:53 [INFO] [RyanIsCool12650] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+22:46:53 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+22:47:47 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40994]: Connected via websocket
+22:47:47 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40994]: Origin header is null
+22:47:47 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40994]: Logged in as 'RyanIsCool12650'
+22:47:47 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+22:47:47 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+23:03:01 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+23:03:01 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+23:03:01 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+23:21:34 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:57432]: Connected via websocket
+23:21:34 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:57432]: Origin header is null
+23:21:34 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:57432]: Logged in as 'RyanIsCool12650'
+23:21:34 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+23:21:34 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+23:21:50 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+23:21:50 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+23:21:50 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+23:21:59 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45334]: Connected via websocket
+23:21:59 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45334]: Origin header is null
+23:22:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45334]: Logged in as 'Coolkid4792'
+23:22:00 [INFO] [Coolkid4792] -> UpstreamBridge has connected
+23:22:00 [INFO] [Coolkid4792] <-> ServerConnector [lobby] has connected
+23:24:52 [INFO] [Coolkid4792] -> UpstreamBridge has disconnected
+23:24:52 [INFO] [Coolkid4792] disconnected with: §f§cProxy lost connection to server.
+23:24:52 [INFO] [Coolkid4792] <-> DownstreamBridge <-> [lobby] has disconnected
+23:25:13 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39732]: Connected via websocket
+23:25:13 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39732]: Origin header is null
+23:25:13 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39732]: Logged in as 'ThunderGod12650'
+23:25:13 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+23:25:13 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+23:25:24 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+23:25:24 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+23:25:24 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+23:25:33 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56008]: Connected via websocket
+23:25:33 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56008]: Origin header is null
+23:25:33 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56008]: Logged in as 'RyanIsCool12650'
+23:25:33 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+23:25:33 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+00:04:37 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+00:04:37 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:04:37 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+00:05:14 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46878]: Connected via websocket
+00:05:14 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46878]: Origin header is null
+00:05:14 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46878]: Logged in as 'RyanIsCool12650'
+00:05:14 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+00:05:14 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+00:05:52 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+00:05:52 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+00:05:52 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:06:22 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:35708]: Connected via websocket
+00:06:22 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:35708]: Origin header is null
+00:06:22 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:35708]: Logged in as 'RyanIsCool12650'
+00:06:22 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+00:06:22 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+00:06:37 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+00:06:37 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+00:06:37 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:06:51 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50638]: Connected via websocket
+00:06:51 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50638]: Origin header is null
+00:06:51 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50638]: Logged in as 'RyanIsCool12650'
+00:06:51 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+00:06:51 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+00:30:35 [INFO] §cCommand not found
+00:30:39 [INFO] §6You may connect to the following servers at this time: §6lobby
+00:30:43 [INFO] §cCommand not found
+00:30:55 [INFO] §cCommand not found
+00:30:56 [INFO] §6You may connect to the following servers at this time: §6lobby
+00:53:54 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+00:53:54 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:53:54 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+00:54:04 [INFO] §cCommand not found
+00:55:42 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49282]: Connected via websocket
+00:55:42 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49282]: Origin header is null
+00:55:42 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49282]: Logged in as 'RyanIsCool12650'
+00:55:42 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+00:55:42 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+00:58:20 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+00:58:20 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:58:20 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+00:58:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40982]: Connected via websocket
+00:58:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40982]: Origin header is null
+00:58:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40982]: Logged in as 'RyanIsCool12650'
+00:58:25 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+00:58:25 [INFO] [RyanIsCool12650] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+00:58:25 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+00:58:33 [INFO] Closing listener [id: 0xb3cb8d1a, L:/127.0.0.1:25577]
+00:58:33 [INFO] Closing pending connections
+00:58:33 [INFO] Disconnecting 0 connections
+00:58:34 [INFO] Disabling plugins
+00:58:34 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+00:58:34 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+00:58:34 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+00:58:36 [INFO] Closing IO threads
+00:58:47 [INFO] Using mbed TLS based native cipher.
+00:58:47 [INFO] Using zlib based native compressor.
+00:58:47 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:84d0ea7:1813
+00:58:47 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:58:47 [INFO] Epoll is working, utilising it!
+00:58:47 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+00:58:47 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+00:58:47 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+00:58:47 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+00:58:47 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+00:58:47 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+00:58:48 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+00:58:48 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+00:58:48 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:48 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:48 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:48 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:48 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:48 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+00:58:48 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:48 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+00:58:48 [WARNING] :>  
+00:58:48 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+00:58:48 [WARNING] :>  
+00:58:48 [WARNING] :>  This plugin wasn't tested to be 'working'
+00:58:48 [WARNING] :>  with ANY version of BungeeCord (and forks)
+00:58:48 [WARNING] :>  apart from the versions listed below:
+00:58:48 [WARNING] :>  
+00:58:48 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+00:58:48 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+00:58:48 [WARNING] :>  - FlameCord: 1.1.1
+00:58:48 [WARNING] :>  
+00:58:48 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+00:58:48 [WARNING] :>  
+00:58:48 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+00:58:48 [WARNING] :>  
+00:58:48 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+00:58:48 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+00:58:50 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+00:58:50 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+00:58:50 [WARNING] Forced host server pvp is not defined
+00:58:50 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+00:58:51 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-1.19-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
+00:58:51 [INFO] [ViaVersion] Loading block connection mappings ...
+00:58:52 [INFO] [ViaBackwards] Loading translations...
+00:58:52 [INFO] [ViaBackwards] Registering protocols...
+00:58:52 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+00:58:52 [INFO] [ViaVersion] Highest supported version by the proxy: 1.20.3/1.20.4 (765)
+00:58:53 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+00:58:53 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+00:58:53 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+00:58:53 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+00:58:53 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:53 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:53 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:53 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:53 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:53 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+00:58:53 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+00:58:53 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+00:58:53 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+00:58:53 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+00:58:53 [INFO] Listening on /127.0.0.1:25577
+00:59:05 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
+00:59:08 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:33142]: Connected via websocket
+00:59:08 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:33142]: Origin header is null
+00:59:08 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:33142]: Logged in as 'RyanIsCool12650'
+00:59:08 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+00:59:08 [SEVERE] [EaglercraftXBungee] Exception in thread "EaglerXBungee: Network Tick Tasks"! java.lang.NullPointerException: Cannot read field "TO_CLIENT" because "encodeProtocol" is null
+00:59:08 [SEVERE] java.lang.NullPointerException: Cannot read field "TO_CLIENT" because "encodeProtocol" is null
+
+00:59:08 [SEVERE] 	at net.md_5.bungee.UserConnection.sendPacketQueued(UserConnection.java:190)
+
+00:59:08 [SEVERE] 	at net.md_5.bungee.UserConnection.sendData(UserConnection.java:550)
+
+00:59:08 [SEVERE] 	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.server.EaglerPipeline$1.run(EaglerPipeline.java:133)
+
+00:59:08 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+
+00:59:08 [SEVERE] 	at java.base/java.util.TimerThread.run(Timer.java:516)
+
+00:59:08 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+00:59:21 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+01:00:04 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+01:00:04 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+01:05:22 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46446]: Connected via websocket
+01:05:23 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46446]: Origin header is null
+01:05:23 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46446]: Logged in as 'RyanIsCool12650'
+01:05:23 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+01:05:23 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+01:33:16 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+01:33:16 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+01:33:16 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+01:33:28 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48246]: Connected via websocket
+01:33:28 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48246]: Origin header is null
+01:33:28 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48246]: Logged in as 'ThunderGod12650'
+01:33:28 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+01:33:28 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+01:33:34 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+01:33:34 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+01:33:34 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+01:37:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:35856]: Connected via websocket
+01:37:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:35856]: Origin header is https://reslauncher4.vercel.app
+01:37:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:35856]: Logged in as 'MysticalMC_YT'
+01:37:44 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:37:44 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+01:38:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:36588]: Connected via websocket
+01:38:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:36588]: Origin header is null
+01:38:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:36588]: Logged in as 'ThunderGod12650'
+01:38:26 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+01:38:26 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+01:38:48 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+01:38:48 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+01:38:48 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+01:38:57 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:37454]: Connected via websocket
+01:38:57 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:37454]: Origin header is null
+01:38:57 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:37454]: Logged in as 'RyanIsCool12650'
+01:38:57 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+01:38:57 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+01:44:10 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+01:44:10 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+01:44:10 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+01:44:12 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+01:44:12 [INFO] [MysticalMC_YT] disconnected with: §f§cProxy lost connection to server.
+01:44:12 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+01:44:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56520]: Connected via websocket
+01:44:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56520]: Origin header is https://reslauncher4.vercel.app
+01:44:46 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56520]: Logged in as 'MysticalMC_YT'
+01:44:46 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:44:46 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+01:44:49 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+01:44:49 [INFO] [MysticalMC_YT] disconnected with: §f§cProxy lost connection to server.
+01:44:49 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+01:44:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56544]: Connected via websocket
+01:44:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56544]: Origin header is https://reslauncher4.vercel.app
+01:44:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:56544]: Logged in as 'MysticalMC_YT'
+01:44:53 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:44:53 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+01:45:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:37158]: Connected via websocket
+01:45:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:37158]: Origin header is null
+01:45:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:37158]: Logged in as 'you_loser'
+01:45:45 [INFO] [you_loser] -> UpstreamBridge has connected
+01:45:45 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+01:46:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46226]: Connected via websocket
+01:46:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46226]: Origin header is null
+01:46:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46226]: Logged in as 'RyanIsCool12650'
+01:46:44 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+01:46:44 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+01:50:19 [INFO] [you_loser] disconnected with: §f§cProxy lost connection to server.
+01:50:19 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+01:50:19 [INFO] [MysticalMC_YT] disconnected with: §fServer closed
+01:50:19 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+01:50:19 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+01:50:19 [INFO] [you_loser] -> UpstreamBridge has disconnected
+01:50:19 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+01:50:19 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+01:50:19 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+01:50:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45410]: Connected via websocket
+01:50:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45410]: Origin header is null
+01:50:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45410]: Logged in as 'you_loser'
+01:50:25 [INFO] [you_loser] -> UpstreamBridge has connected
+01:50:25 [INFO] [you_loser] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:50:25 [INFO] [you_loser] -> UpstreamBridge has disconnected
+01:50:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45426]: Connected via websocket
+01:50:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45426]: Origin header is https://reslauncher4.vercel.app
+01:50:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45426]: Logged in as 'MysticalMC_YT'
+01:50:26 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:50:26 [INFO] [MysticalMC_YT] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:50:26 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+01:50:27 [INFO] Closing listener [id: 0xba0e27ed, L:/127.0.0.1:25577]
+01:50:27 [INFO] Closing pending connections
+01:50:27 [INFO] Disconnecting 0 connections
+01:50:28 [INFO] Disabling plugins
+01:50:28 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+01:50:28 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+01:50:28 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+01:50:30 [INFO] Closing IO threads
+01:50:39 [INFO] Using mbed TLS based native cipher.
+01:50:39 [INFO] Using zlib based native compressor.
+01:50:39 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:84d0ea7:1813
+01:50:39 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:50:39 [INFO] Epoll is working, utilising it!
+01:50:39 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+01:50:39 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+01:50:39 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+01:50:39 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+01:50:39 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+01:50:39 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+01:50:39 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+01:50:39 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+01:50:39 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:39 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:39 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:39 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:39 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:39 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+01:50:40 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:40 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:50:40 [WARNING] :>  
+01:50:40 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+01:50:40 [WARNING] :>  
+01:50:40 [WARNING] :>  This plugin wasn't tested to be 'working'
+01:50:40 [WARNING] :>  with ANY version of BungeeCord (and forks)
+01:50:40 [WARNING] :>  apart from the versions listed below:
+01:50:40 [WARNING] :>  
+01:50:40 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+01:50:40 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+01:50:40 [WARNING] :>  - FlameCord: 1.1.1
+01:50:40 [WARNING] :>  
+01:50:40 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+01:50:40 [WARNING] :>  
+01:50:40 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+01:50:40 [WARNING] :>  
+01:50:40 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:50:40 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+01:50:41 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+01:50:41 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+01:50:41 [WARNING] Forced host server pvp is not defined
+01:50:41 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+01:50:42 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-1.19-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
+01:50:42 [INFO] [ViaVersion] Loading block connection mappings ...
+01:50:43 [INFO] [ViaBackwards] Loading translations...
+01:50:43 [INFO] [ViaBackwards] Registering protocols...
+01:50:44 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+01:50:44 [INFO] [ViaVersion] Highest supported version by the proxy: 1.20.3/1.20.4 (765)
+01:50:44 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+01:50:44 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+01:50:44 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+01:50:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:44 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:44 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+01:50:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+01:50:44 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+01:50:44 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+01:50:44 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+01:50:44 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+01:50:44 [INFO] Listening on /127.0.0.1:25577
+01:50:44 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
+01:50:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54304]: Connected via websocket
+01:50:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54304]: Origin header is null
+01:50:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54318]: Connected via websocket
+01:50:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54318]: Origin header is https://reslauncher4.vercel.app
+01:50:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54304]: Logged in as 'RyanIsCool12650'
+01:50:48 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+01:50:48 [SEVERE] [EaglercraftXBungee] Exception in thread "EaglerXBungee: Network Tick Tasks"! java.lang.NullPointerException: Cannot read field "TO_CLIENT" because "encodeProtocol" is null
+01:50:48 [SEVERE] java.lang.NullPointerException: Cannot read field "TO_CLIENT" because "encodeProtocol" is null
+
+01:50:48 [SEVERE] 	at net.md_5.bungee.UserConnection.sendPacketQueued(UserConnection.java:190)
+
+01:50:48 [SEVERE] 	at net.md_5.bungee.UserConnection.sendData(UserConnection.java:550)
+
+01:50:48 [SEVERE] 	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.server.EaglerPipeline$1.run(EaglerPipeline.java:133)
+
+01:50:48 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+
+01:50:48 [SEVERE] 	at java.base/java.util.TimerThread.run(Timer.java:516)
+
+01:50:49 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54318]: Logged in as 'MysticalMC_YT'
+01:50:49 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:50:49 [INFO] [MysticalMC_YT] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:50:49 [INFO] [RyanIsCool12650] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:50:49 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+01:50:49 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+01:50:50 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54334]: Connected via websocket
+01:50:50 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54334]: Origin header is https://reslauncher4.vercel.app
+01:50:51 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54334]: Logged in as 'MysticalMC_YT'
+01:50:51 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:50:51 [INFO] [MysticalMC_YT] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:50:51 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+01:51:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45704]: Connected via websocket
+01:51:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45704]: Origin header is null
+01:51:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45704]: Logged in as 'RyanIsCool12650'
+01:51:00 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+01:51:00 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+01:51:06 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42944]: Connected via websocket
+01:51:06 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42944]: Origin header is https://reslauncher4.vercel.app
+01:51:06 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42944]: Logged in as 'MysticalMC_YT'
+01:51:06 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:51:06 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+01:51:11 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+01:51:11 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+01:51:16 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51248]: Connected via websocket
+01:51:16 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51248]: Origin header is https://reslauncher4.vercel.app
+01:51:16 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51248]: Logged in as 'MysticalMC_YT'
+01:51:16 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:51:16 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+01:51:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55330]: Connected via websocket
+01:51:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55330]: Origin header is null
+01:51:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55330]: Logged in as 'RyanIsCool12650'
+01:51:26 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+01:51:26 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+01:51:27 [INFO] [MysticalMC_YT] disconnected with: §fYou logged in from another location
+01:51:27 [INFO] [RyanIsCool12650] disconnected with: §fYou logged in from another location
+01:51:27 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+01:51:27 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+01:51:27 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+01:51:37 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50310]: Connected via websocket
+01:51:37 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50310]: Origin header is https://reslauncher4.vercel.app
+01:51:37 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50314]: Connected via websocket
+01:51:37 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50314]: Origin header is null
+01:51:38 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50310]: Logged in as 'MysticalMC_YT'
+01:51:38 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+01:51:38 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+01:51:38 [INFO] [MysticalMC_YT] disconnected with: §fYou logged in from another location
+01:51:38 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+01:51:38 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50314]: Logged in as 'you_loser'
+01:51:38 [INFO] [you_loser] -> UpstreamBridge has connected
+01:51:38 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+02:02:37 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+02:02:37 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+02:02:37 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+02:02:39 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59894]: Connected via websocket
+02:02:39 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59894]: Origin header is null
+02:02:39 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59894]: Logged in as 'RyanIsCool12650'
+02:02:39 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+02:02:39 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+02:08:21 [INFO] [you_loser] disconnected with: §fServer is restarting
+02:08:21 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:08:21 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+02:08:21 [INFO] [RyanIsCool12650] disconnected with: §fServer is restarting
+02:08:21 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+02:08:21 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+02:08:21 [INFO] [MysticalMC_YT] disconnected with: §fServer is restarting
+02:08:21 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:08:21 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:08:26 [INFO] Closing listener [id: 0x407c77f3, L:/127.0.0.1:25577]
+02:08:26 [INFO] Closing pending connections
+02:08:26 [INFO] Disconnecting 0 connections
+02:08:26 [INFO] Disabling plugins
+02:08:27 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+02:08:27 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+02:08:27 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+02:08:29 [INFO] Closing IO threads
+02:08:31 [INFO] Using mbed TLS based native cipher.
+02:08:31 [INFO] Using zlib based native compressor.
+02:08:31 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:84d0ea7:1813
+02:08:31 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:08:31 [INFO] Epoll is working, utilising it!
+02:08:31 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+02:08:31 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+02:08:31 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+02:08:31 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+02:08:31 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+02:08:31 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+02:08:31 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+02:08:31 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+02:08:31 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:31 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:31 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:31 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:31 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:31 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+02:08:31 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:31 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:08:31 [WARNING] :>  
+02:08:31 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:08:31 [WARNING] :>  
+02:08:31 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:08:31 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:08:31 [WARNING] :>  apart from the versions listed below:
+02:08:31 [WARNING] :>  
+02:08:31 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+02:08:31 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+02:08:31 [WARNING] :>  - FlameCord: 1.1.1
+02:08:31 [WARNING] :>  
+02:08:31 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:08:31 [WARNING] :>  
+02:08:31 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:08:31 [WARNING] :>  
+02:08:31 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:08:31 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+02:08:32 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+02:08:32 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+02:08:32 [WARNING] Forced host server pvp is not defined
+02:08:32 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+02:08:33 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-1.19-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
+02:08:33 [INFO] [ViaVersion] Loading block connection mappings ...
+02:08:33 [INFO] [ViaBackwards] Loading translations...
+02:08:33 [INFO] [ViaBackwards] Registering protocols...
+02:08:34 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+02:08:34 [INFO] [ViaVersion] Highest supported version by the proxy: 1.20.3/1.20.4 (765)
+02:08:34 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+02:08:34 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+02:08:34 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+02:08:34 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:34 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:34 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:34 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:34 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:34 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+02:08:34 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:08:34 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+02:08:34 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+02:08:34 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+02:08:34 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+02:08:34 [INFO] Listening on /127.0.0.1:25577
+02:09:09 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43378]: Connected via websocket
+02:09:09 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43378]: Origin header is https://reslauncher4.vercel.app
+02:09:09 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43378]: Logged in as 'MysticalMC_YT'
+02:09:09 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+02:09:09 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+02:09:12 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:09:14 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
+02:09:15 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40878]: Connected via websocket
+02:09:15 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40878]: Origin header is null
+02:09:15 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40878]: Logged in as 'RyanIsCool12650'
+02:09:15 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+02:09:15 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+02:09:16 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40882]: Connected via websocket
+02:09:16 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40882]: Origin header is https://reslauncher4.vercel.app
+02:09:16 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40882]: Logged in as 'MysticalMC_YT'
+02:09:16 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+02:09:16 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+02:09:16 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+02:09:19 [INFO] [MysticalMC_YT] disconnected with: §fYou logged in from another location
+02:09:19 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:09:28 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45496]: Connected via websocket
+02:09:28 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45496]: Origin header is null
+02:09:28 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45496]: Logged in as 'RyanIsCool12650'
+02:09:28 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+02:09:28 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+02:09:28 [INFO] [RyanIsCool12650] disconnected with: §fYou logged in from another location
+02:09:28 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+02:10:15 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55280]: Connected via websocket
+02:10:15 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55280]: Origin header is null
+02:10:15 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55280]: Logged in as 'you_loser'
+02:10:15 [INFO] [you_loser] -> UpstreamBridge has connected
+02:10:15 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+02:21:05 [INFO] [MysticalMC_YT] disconnected with: §fServer is restarting
+02:21:05 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:21:05 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:21:05 [INFO] [you_loser] disconnected with: §fServer is restarting
+02:21:05 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:21:05 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+02:21:05 [INFO] [RyanIsCool12650] disconnected with: §fServer is restarting
+02:21:05 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+02:21:05 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+02:21:10 [INFO] Closing listener [id: 0x3dd6bae6, L:/127.0.0.1:25577]
+02:21:10 [INFO] Closing pending connections
+02:21:10 [INFO] Disconnecting 0 connections
+02:21:10 [INFO] Disabling plugins
+02:21:10 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+02:21:10 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+02:21:10 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+02:21:12 [INFO] Closing IO threads
+02:21:17 [INFO] Using mbed TLS based native cipher.
+02:21:17 [INFO] Using zlib based native compressor.
+02:21:17 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:84d0ea7:1813
+02:21:17 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:21:17 [INFO] Epoll is working, utilising it!
+02:21:17 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+02:21:17 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+02:21:17 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+02:21:17 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+02:21:17 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+02:21:17 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+02:21:17 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+02:21:17 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+02:21:17 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:17 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:17 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:17 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:17 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:17 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+02:21:17 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:17 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:21:17 [WARNING] :>  
+02:21:17 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:21:17 [WARNING] :>  
+02:21:17 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:21:17 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:21:17 [WARNING] :>  apart from the versions listed below:
+02:21:17 [WARNING] :>  
+02:21:17 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+02:21:17 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+02:21:17 [WARNING] :>  - FlameCord: 1.1.1
+02:21:17 [WARNING] :>  
+02:21:17 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:21:17 [WARNING] :>  
+02:21:17 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:21:17 [WARNING] :>  
+02:21:17 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:21:17 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+02:21:18 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+02:21:18 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+02:21:18 [WARNING] Forced host server pvp is not defined
+02:21:18 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+02:21:18 [INFO] [ViaVersion] Loading block connection mappings ...
+02:21:18 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-1.19-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
+02:21:19 [INFO] [ViaBackwards] Loading translations...
+02:21:19 [INFO] [ViaBackwards] Registering protocols...
+02:21:19 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+02:21:19 [INFO] [ViaVersion] Highest supported version by the proxy: 1.20.3/1.20.4 (765)
+02:21:19 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+02:21:20 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+02:21:20 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+02:21:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:20 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+02:21:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:21:20 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+02:21:20 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+02:21:20 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
+02:21:20 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+02:21:20 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+02:21:20 [INFO] Listening on /127.0.0.1:25577
+02:21:22 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44506]: Connected via websocket
+02:21:22 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44506]: Origin header is null
+02:21:22 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44506]: Logged in as 'you_loser'
+02:21:22 [INFO] [you_loser] -> UpstreamBridge has connected
+02:21:22 [INFO] [you_loser] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+02:21:22 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:21:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44522]: Connected via websocket
+02:21:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44522]: Origin header is null
+02:21:25 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44522]: Logged in as 'you_loser'
+02:21:25 [INFO] [you_loser] -> UpstreamBridge has connected
+02:21:25 [INFO] [you_loser] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+02:21:25 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:21:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:41554]: Connected via websocket
+02:21:41 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:41554]: Origin header is null
+02:21:41 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:41554]: Logged in as 'you_loser'
+02:21:41 [INFO] [you_loser] -> UpstreamBridge has connected
+02:21:41 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+02:21:46 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:21:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40230]: Connected via websocket
+02:21:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40230]: Origin header is null
+02:21:48 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:40230]: Logged in as 'you_loser'
+02:21:48 [SEVERE] [EaglercraftXBungee] Exception in thread "EaglerXBungee: Network Tick Tasks"! java.lang.NullPointerException: Cannot read field "TO_CLIENT" because "encodeProtocol" is null
+02:21:48 [INFO] [you_loser] -> UpstreamBridge has connected
+02:21:48 [SEVERE] java.lang.NullPointerException: Cannot read field "TO_CLIENT" because "encodeProtocol" is null
+
+02:21:48 [SEVERE] 	at net.md_5.bungee.UserConnection.sendPacketQueued(UserConnection.java:190)
+
+02:21:48 [SEVERE] 	at net.md_5.bungee.UserConnection.sendData(UserConnection.java:550)
+
+02:21:48 [SEVERE] 	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.server.EaglerPipeline$1.run(EaglerPipeline.java:133)
+
+02:21:48 [SEVERE] 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+
+02:21:48 [SEVERE] 	at java.base/java.util.TimerThread.run(Timer.java:516)
+
+02:21:48 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+02:21:50 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:22:01 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42480]: Connected via websocket
+02:22:01 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42480]: Origin header is https://reslauncher4.vercel.app
+02:22:01 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42480]: Logged in as 'MysticalMC_YT'
+02:22:01 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+02:22:01 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+02:22:03 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42484]: Connected via websocket
+02:22:03 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42484]: Origin header is null
+02:22:03 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42484]: Logged in as 'you_loser'
+02:22:03 [INFO] [you_loser] -> UpstreamBridge has connected
+02:22:03 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+02:22:08 [INFO] [you_loser] disconnected with: §fYou logged in from another location
+02:22:08 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+02:22:08 [INFO] [you_loser] disconnected with: §fYou logged in from another location
+02:22:08 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+02:22:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48576]: Connected via websocket
+02:22:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48576]: Origin header is null
+02:22:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48576]: Logged in as 'RyanIsCool12650'
+02:22:26 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+02:22:26 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+02:26:23 [INFO] [you_loser] disconnected with: §fTimed out
+02:26:23 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:26:23 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+02:26:33 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55590]: Connected via websocket
+02:26:33 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55590]: Origin header is null
+02:26:33 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:55590]: Logged in as 'you_loser'
+02:26:33 [INFO] [you_loser] -> UpstreamBridge has connected
+02:26:33 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+02:27:25 [INFO] [MysticalMC_YT] disconnected with: §fServer is restarting
+02:27:25 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:27:25 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:27:25 [INFO] [RyanIsCool12650] disconnected with: §fServer is restarting
+02:27:25 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+02:27:25 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+02:27:25 [INFO] [you_loser] disconnected with: §fServer is restarting
+02:27:25 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:27:25 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+02:27:29 [INFO] Closing listener [id: 0x9d45a896, L:/127.0.0.1:25577]
+02:27:29 [INFO] Closing pending connections
+02:27:29 [INFO] Disconnecting 0 connections
+02:27:30 [INFO] Disabling plugins
+02:27:30 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+02:27:30 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+02:27:30 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+02:27:32 [INFO] Closing IO threads
+02:27:42 [INFO] Using mbed TLS based native cipher.
+02:27:42 [INFO] Using zlib based native compressor.
+02:27:42 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:84d0ea7:1813
+02:27:42 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:27:42 [INFO] Epoll is working, utilising it!
+02:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+02:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+02:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+02:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+02:27:42 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+02:27:42 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+02:27:42 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+02:27:42 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+02:27:42 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:42 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:42 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:42 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:42 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:42 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+02:27:42 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:42 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:27:42 [WARNING] :>  
+02:27:42 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:27:42 [WARNING] :>  
+02:27:42 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:27:42 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:27:42 [WARNING] :>  apart from the versions listed below:
+02:27:42 [WARNING] :>  
+02:27:42 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+02:27:42 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+02:27:42 [WARNING] :>  - FlameCord: 1.1.1
+02:27:42 [WARNING] :>  
+02:27:42 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:27:42 [WARNING] :>  
+02:27:42 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:27:42 [WARNING] :>  
+02:27:42 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:27:43 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+02:27:44 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+02:27:44 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+02:27:44 [WARNING] Forced host server pvp is not defined
+02:27:44 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+02:27:45 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-1.19-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
+02:27:45 [INFO] [ViaVersion] Loading block connection mappings ...
+02:27:46 [INFO] [ViaBackwards] Loading translations...
+02:27:46 [INFO] [ViaBackwards] Registering protocols...
+02:27:46 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+02:27:46 [INFO] [ViaVersion] Highest supported version by the proxy: 1.20.3/1.20.4 (765)
+02:27:46 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+02:27:47 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+02:27:47 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+02:27:47 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:47 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:47 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:47 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:47 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:47 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+02:27:47 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:27:47 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+02:27:47 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+02:27:47 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+02:27:47 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+02:27:47 [INFO] Listening on /127.0.0.1:25577
+02:28:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44150]: Connected via websocket
+02:28:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44150]: Origin header is https://reslauncher4.vercel.app
+02:28:00 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44150]: Logged in as 'MysticalMC_YT'
+02:28:00 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+02:28:01 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+02:28:15 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:28:23 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:33052]: Connected via websocket
+02:28:23 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:33052]: Origin header is https://reslauncher4.vercel.app
+02:28:23 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:33052]: Logged in as 'MysticalMC_YT'
+02:28:23 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+02:28:23 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+02:28:28 [INFO] [MysticalMC_YT] disconnected with: §fYou logged in from another location
+02:28:28 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:28:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39606]: Connected via websocket
+02:28:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39606]: Origin header is null
+02:28:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39606]: Logged in as 'RyanIsCool12650'
+02:28:44 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+02:28:44 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+02:28:53 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
+02:28:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51044]: Connected via websocket
+02:28:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51044]: Origin header is null
+02:28:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51044]: Logged in as 'you_loser'
+02:28:55 [INFO] [you_loser] -> UpstreamBridge has connected
+02:28:55 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+02:29:37 [INFO] [RyanIsCool12650] disconnected with: §f§cProxy lost connection to server.
+02:29:37 [INFO] [MysticalMC_YT] disconnected with: §f§cProxy lost connection to server.
+02:29:37 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:29:37 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:29:37 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+02:29:37 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+02:29:37 [INFO] [you_loser] disconnected with: §f§cProxy lost connection to server.
+02:29:37 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+02:29:37 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:29:38 [INFO] Closing listener [id: 0xe2cb6093, L:/127.0.0.1:25577]
+02:29:38 [INFO] Closing pending connections
+02:29:38 [INFO] Disconnecting 0 connections
+02:29:38 [INFO] Disabling plugins
+02:29:38 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+02:29:38 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+02:29:38 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+02:29:40 [INFO] Closing IO threads
+02:29:51 [INFO] Using mbed TLS based native cipher.
+02:29:51 [INFO] Using zlib based native compressor.
+02:29:51 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:84d0ea7:1813
+02:29:51 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:29:52 [INFO] Epoll is working, utilising it!
+02:29:52 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+02:29:52 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+02:29:52 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+02:29:52 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+02:29:52 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+02:29:52 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+02:29:52 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+02:29:52 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+02:29:52 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:52 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:52 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:52 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:52 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:52 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+02:29:52 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:52 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:29:52 [WARNING] :>  
+02:29:52 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:29:52 [WARNING] :>  
+02:29:52 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:29:52 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:29:52 [WARNING] :>  apart from the versions listed below:
+02:29:52 [WARNING] :>  
+02:29:52 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+02:29:52 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+02:29:52 [WARNING] :>  - FlameCord: 1.1.1
+02:29:52 [WARNING] :>  
+02:29:52 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:29:52 [WARNING] :>  
+02:29:52 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:29:52 [WARNING] :>  
+02:29:52 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:29:52 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+02:29:54 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+02:29:54 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+02:29:54 [WARNING] Forced host server pvp is not defined
+02:29:54 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+02:29:54 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-1.19-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
+02:29:55 [INFO] [ViaVersion] Loading block connection mappings ...
+02:29:55 [INFO] [ViaBackwards] Loading translations...
+02:29:55 [INFO] [ViaBackwards] Registering protocols...
+02:29:56 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+02:29:56 [INFO] [ViaVersion] Highest supported version by the proxy: 1.20.3/1.20.4 (765)
+02:29:56 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+02:29:56 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+02:29:56 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+02:29:56 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:56 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:56 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:56 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:56 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:56 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+02:29:56 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:84d0ea7:1813 by SpigotMC
+02:29:56 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+02:29:56 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+02:29:57 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+02:29:57 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+02:29:57 [INFO] Listening on /127.0.0.1:25577
+02:30:14 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:53384]: Connected via websocket
+02:30:14 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:53384]: Origin header is https://reslauncher4.vercel.app
+02:30:14 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:53384]: Logged in as 'MysticalMC_YT'
+02:30:14 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+02:30:15 [INFO] [MysticalMC_YT] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+02:30:15 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:30:18 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/EaglercraftX-1.19-Server/bungee/server-icon.png
+02:30:20 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39312]: Connected via websocket
+02:30:20 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39312]: Origin header is https://reslauncher4.vercel.app
+02:30:20 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:39312]: Logged in as 'MysticalMC_YT'
+02:30:20 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+02:30:20 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+02:30:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48160]: Connected via websocket
+02:30:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48160]: Origin header is null
+02:30:26 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:48160]: Logged in as 'you_loser'
+02:30:26 [INFO] [you_loser] -> UpstreamBridge has connected
+02:30:26 [INFO] [you_loser] <-> ServerConnector [lobby] has connected
+02:30:35 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:30:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:58394]: Connected via websocket
+02:30:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:58394]: Origin header is https://reslauncher4.vercel.app
+02:30:40 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:58394]: Logged in as 'MysticalMC_YT'
+02:30:40 [INFO] [MysticalMC_YT] -> UpstreamBridge has connected
+02:30:40 [INFO] [MysticalMC_YT] <-> ServerConnector [lobby] has connected
+02:30:41 [INFO] [you_loser] -> UpstreamBridge has disconnected
+02:30:51 [INFO] [MysticalMC_YT] disconnected with: §fYou logged in from another location
+02:30:51 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:31:21 [INFO] [you_loser] disconnected with: §f§cProxy lost connection to server.
+02:31:21 [INFO] [you_loser] <-> DownstreamBridge <-> [lobby] has disconnected
+02:31:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50760]: Connected via websocket
+02:31:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50760]: Origin header is null
+02:31:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:50760]: Logged in as 'RyanIsCool12650'
+02:31:55 [INFO] [RyanIsCool12650] -> UpstreamBridge has connected
+02:31:55 [INFO] [RyanIsCool12650] <-> ServerConnector [lobby] has connected
+02:33:37 [INFO] [RyanIsCool12650] disconnected with: §fServer is restarting
+02:33:37 [INFO] [RyanIsCool12650] -> UpstreamBridge has disconnected
+02:33:37 [INFO] [RyanIsCool12650] <-> DownstreamBridge <-> [lobby] has disconnected
+02:33:37 [INFO] [MysticalMC_YT] disconnected with: §fServer is restarting
+02:33:37 [INFO] [MysticalMC_YT] -> UpstreamBridge has disconnected
+02:33:37 [INFO] [MysticalMC_YT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:33:43 [INFO] Closing listener [id: 0x6ca9bf2b, L:/127.0.0.1:25577]
+02:33:43 [INFO] Closing pending connections
+02:33:43 [INFO] Disconnecting 0 connections
+02:33:44 [INFO] Disabling plugins
+02:33:44 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+02:33:44 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+02:33:44 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+02:33:46 [INFO] Closing IO threads
