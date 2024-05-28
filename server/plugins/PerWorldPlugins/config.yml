@@ -1,0 +1,56 @@
+plugins:
+  ViaRewind:
+  - Example
+  LuckPerms:
+  - Example
+  ProtocolLib:
+  - Example
+  Vault:
+  - Example
+  PlaceholderAPI:
+  - Example
+  ServersNPC:
+  - Example
+  EndlessEnchant:
+  - Example
+  LifeSteal-Smp-Plugin:
+  - Survival
+  - world
+  ViaVersion:
+  - Example
+  ViaBackwards:
+  - Example
+  MyCommand:
+  - Example
+  Essentials:
+  - Example
+  SimpleHomes:
+  - Example
+  BetterEconomy:
+  - Example
+  CommandPanels:
+  - Example
+  Multiverse-Core:
+  - Example
+  Multiverse-Inventories:
+  - Example
+  EssentialsChat:
+  - Example
+  Enchants:
+  - Example
+  EconomyShopGUI:
+  - Example
+  BetterRTP:
+  - Example
+  EssentialsSpawn:
+  - Example
+  AuthMe:
+  - Example
+  CommandSigns:
+  - Example
+  SCore:
+  - Example
+  ExecutableItems:
+  - Example
+  SignURLs:
+  - Example

@@ -1,0 +1,25 @@
+{
+  "TIP_MESSAGES": [
+    "You can use the word 'All' for the enchantment name.",
+    "You can use the enchantment name or ID.",
+    "You can enchant a book to get an enchanted book."
+  ],
+  "SHOW_TIP_MESSAGES": true,
+  "ENCHANTMENT_MORE_ROMAN_NUMERALS": true,
+  "ENCHANTMENT_LEVEL_LIMIT": 10,
+  "ENCHANTMENT_PREVENT_NEGATIVE": true,
+  "COMMAND_ADD_ALL": "Added {COUNT} enchantments to \"{ITEM}.\"",
+  "COMMAND_ADD": "Added \"{ENCHANTMENT}\" (x{LEVEL}) to \"{ITEM}.\"",
+  "COMMAND_REMOVE_ALL": "Removed {COUNT} enchantment{S} from \"{ITEM}.\"",
+  "COMMAND_REMOVE": "Removed \"{ENCHANTMENT}\" from \"{ITEM}.\"",
+  "COMMAND_ADD_DESCRIPTION": "Adds an enchantment.",
+  "COMMAND_REMOVE_DESCRIPTION": "Removes an enchantment.",
+  "COMMAND_LIST_DESCRIPTION": "Lists all enchantments.",
+  "ERROR_NO_ITEM": "You must be holding an item.",
+  "ERROR_NO_ENCHANTMENT": "You must specify an enchantment.",
+  "ERROR_NO_LEVEL": "You must specify an enchantment level.",
+  "ERROR_NO_PERMISSION": "You do not have permission to do this.",
+  "ERROR_NO_PERMISSION_LEVEL": "You don't have permission to use enchantment levels past {LEVEL}.",
+  "ERROR_INVALID_ENCHANTMENT": "Could not parse specified enchantment.",
+  "ERROR_INVALID_LEVEL": "Could not parse specified enchantment level."
+}

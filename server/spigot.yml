@@ -55,7 +55,7 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  restart: '&dServer Is Offline Try Again in 5-10 Minutes!'
 advancements:
   disable-saving: false
   disabled:

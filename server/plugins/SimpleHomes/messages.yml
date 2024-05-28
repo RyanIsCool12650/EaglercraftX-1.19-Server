@@ -1,0 +1,80 @@
+prefix: '&e&lSimple&6&lHomes &8»'
+setHome:
+  isConsole: '%prefix% &fThis command is disabled in the console.'
+  noPermission: '%prefix% &fYou do not have permission.'
+  emptyName: '%prefix% &fThe name are empty.'
+  maxHomesReached: '%prefix% &fYou has reached the max homes.'
+  set: '%prefix% &fThe home &9%home%&f has been set with a &9$%cost%&f of cost.'
+  overwritten: '%prefix% &fThe home &9%home%&f has been overwritten with a &9$%cost%&f
+    of cost.'
+  insufficientSetMoney: '%prefix% &fInsufficient money to set a new home, you need:
+    &9$%cost%&f.'
+  insufficientOverwrittenMoney: '%prefix% &fInsufficient money to overwrite a home,
+    you need: &9$%cost%&f.'
+  disabledWorld: '%prefix% &fSet home in the world &9%world_name%&f is disabled.'
+deleteHome:
+  isConsole: '%prefix% &fThis command is disabled in the console.'
+  noPermission: '%prefix% &fYou do not have permission.'
+  emptyName: '%prefix% &fThe name are empty.'
+  invalidHome: '%prefix% &fThe home &9%home%&f is invalid or no exist.'
+  delete: '%prefix% &fThe home &9%home%&f has been deleted and &9$%cost%&f has been
+    delivered in your balance.'
+  deleteOther: '%prefix% &fYou deleted the home &9%home%&f from the player &9%player%&f.'
+home:
+  isConsole: '%prefix% &fThis command is disabled in the console.'
+  noPermission: '%prefix% &fYou do not have permission.'
+  emptyName: '%prefix% &fThe name are empty.'
+  invalidHome: '%prefix% &fThe home &9%home%&f is invalid or no exist.'
+  invalidWorld: '%prefix% &fThe world &9%world% &fis invalid or no exist. &cCONTACT
+    A ADMIN'
+  cancelByMovement: '%prefix% &fTeleport cancel by move to other block.'
+  alreadyInTeleporting: '%prefix% &fAlready teleporting countdown.'
+  disabledWorldFrom: '%prefix% &fTeleport is blocked in the world %world_name%'
+  disabledWorldTo: '%prefix% &fTeleport is blocked in the destiny world %world_name%'
+  insufficientMoney: '%prefix% &fInsufficient money to teleport to your home. You
+    need &9$%amount%&f.'
+homes:
+  isConsole: '%prefix% &fThis command is disabled in the console.'
+  noPermission: '%prefix% &fYou do not have permission.'
+  noPermissionOther: '%prefix% &fYou do not have permission.'
+  invalidName: '%prefix% &fThe player &9%player%&f no exist.'
+  emptyHomes: '%prefix% &fYou do not have homes.'
+  emptyHomesOther: '%prefix% &fThe player &9%player%&f has not homes.'
+admin:
+  noPermission: '%prefix% &fYou do not have permission.'
+  emptyOption: '%prefix% &fThe option is empty. Type &9/SimpleHomes help&f.'
+  invalidOption: '%prefix% &fThe option &9%option%&f ins invalid. Type &9/SimpleHomes
+    help&f.'
+  help:
+  - '%prefix% Admin Commands'
+  - ' &6/SimpleHomes &ereload &8- &fReload this plugin.'
+  - ' &6/SimpleHomes &eversion &8- &fView the curren plugin version.'
+  reloaded: '%prefix% &fThe plugin &9%plugin%&f has been reloaded.'
+  version: '%prefix% &fVersion: &9%version%'
+  vault:
+    setHome:
+      enterAmount:
+      - '%prefix% &fEnter in the chat the new amount'
+      - '&fTo cancel press SHIFT'
+      invalidAmount: '%prefix% &fThe amount &9%amount%&f is invalid.'
+    overwriteHome:
+      enterAmount:
+      - '%prefix% &fEnter in the chat the new amount'
+      - '&fTo cancel press SHIFT'
+      invalidAmount: '%prefix% &fThe amount &9%amount%&f is invalid.'
+    deleteHome:
+      enterAmount:
+      - '%prefix% &fEnter in the chat the new amount'
+      - '&fTo cancel press SHIFT'
+      invalidAmount: '%prefix% &fThe amount &9%amount%&f is invalid.'
+    teleport:
+      enterAmount:
+      - '%prefix% &fEnter in the chat the new amount'
+      - '&fTo cancel press SHIFT'
+      invalidAmount: '%prefix% &fThe amount &9%amount%&f is invalid.'
+migrateHomes:
+  isConsole: '%prefix% &fThis command is disabled in the console.'
+  noPermission: '%prefix% &fYou do not have permission.'
+  emptyName: '%prefix% &fThe name are empty.'
+  invalidPlugin: '%prefix% &fThe plugin &9%plugin%&f is invalid or no exist.'
+  migrateComplete: '%prefix% &fAll homes from &9%plugin%&f has been migrated.'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716596032123
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716596038434
+  login: 1716596005755
+money: '0.0'
+last-account-name: PreviewMystical
+lastlocation:
+  world: 6d105315-4b80-4cc0-809c-69acf24b1190
+  world-name: Survival
+  x: -37.15283329482547
+  y: 86.0
+  z: 7.852930208628479
+  yaw: 41.55000686645508
+  pitch: 90.0
+logoutlocation:
+  world: cc60b874-2616-4f27-aa92-d39b7b56c110
+  world-name: Ls
+  x: -80.4722760887288
+  y: 69.0
+  z: 176.60176685574308
+  yaw: 107.70000457763672
+  pitch: 30.449995040893555

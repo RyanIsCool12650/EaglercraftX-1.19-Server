@@ -1,0 +1,5 @@
+gamemode_alias:
+  command: /lobby
+  type: ALIAS
+  alias: /spawn
+  permission-required: false

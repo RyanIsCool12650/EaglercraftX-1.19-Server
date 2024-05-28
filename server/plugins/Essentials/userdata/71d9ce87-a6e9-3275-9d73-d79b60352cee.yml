@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716827285453
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716833024321
+  login: 1716832804618
+money: '0'
+last-account-name: _petergriffin_
+lastlocation:
+  world: 6d105315-4b80-4cc0-809c-69acf24b1190
+  world-name: Survival
+  x: -21.067718394121982
+  y: 94.85715313255787
+  z: -14.568891899840388
+  yaw: -76.421875
+  pitch: -45.21875
+logoutlocation:
+  world: 6c150585-6c09-4de9-8185-3b5928aebcfd
+  world-name: world
+  x: 43.959746001493485
+  y: 201.0
+  z: -9.799787365978457
+  yaw: -36.65625
+  pitch: 4.0703125

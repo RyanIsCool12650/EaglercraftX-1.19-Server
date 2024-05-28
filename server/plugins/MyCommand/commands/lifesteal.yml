@@ -1,0 +1,5 @@
+gamemode_alias:
+  command: /lifesteal
+  type: ALIAS
+  alias: /server Ls
+  permission-required: false

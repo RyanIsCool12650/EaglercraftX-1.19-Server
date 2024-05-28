@@ -1,0 +1,26 @@
+currency:
+  symbol: $
+  singular: $
+  plural: $
+  format-fractional-digits: 2
+  decimal-point: .
+  use-thousands-separator: true
+  thousands-separator: ','
+handler-type: file
+balance:
+  top-update-period: 100
+  file-save-period: 200
+  start-amount: 0.0
+  min-amount: 0.0
+database:
+  mysql:
+    host: localhost
+    port: '3306'
+    dbname: ''
+    username: root
+    password: ''
+  sqlite:
+    dbname: balances
+  common:
+    client-settings: {}
+    driver-settings: {}

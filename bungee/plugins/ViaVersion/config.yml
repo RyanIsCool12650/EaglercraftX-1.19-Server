@@ -51,6 +51,13 @@ bungee-ping-save: true
 bungee-servers:
   default: 47
   lobby: 765
+  PonksLs: 10000
+  mysticls: 47
+  Lifesteal: 765
+  nether: 766
+  node: 765
+  Survival: 765
+  lifesteal: 765
 #
 #----------------------------------------------------------#
 #                  GLOBAL PACKET LIMITER                   #

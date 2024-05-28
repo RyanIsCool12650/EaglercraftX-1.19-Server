@@ -1,0 +1,212 @@
+panels:
+  server-selector:
+    perm: default
+    rows: 3
+    title: '&dServer Selector'
+    empty: BLACK_STAINED_GLASS_PANE
+    open-with-item:
+      material: NETHER_STAR
+      name: '&d[Server Selector]'
+      lore:
+      - '&7(Click To Open)'
+      stationary: 8
+      commands: 
+      - open= server-selector  
+    item:
+      '0':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '1':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '2':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '3':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '4':
+        material: DIAMOND_BLOCK
+        stack: 1
+        enchanted:
+        - sharpness 5
+        name: '§dRanks '
+        lore:
+        - '&7Coming Soon! (If You Really Want a Rank'
+        - '&7badly Contact Mystical Norshare,'
+        - '&7MysticalMC_YT, or Ponkstars on Discord!)'
+        commands:
+        - msg= &8[&cSorry Ranks Are Not Available Yet!&8]
+      '5':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '6':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '7':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '8':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '9':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '10':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '11':
+        material: RED_DYE
+        stack: 1
+        enchanted:
+        - sharpness 5
+        name: '§cLifesteal'
+        lore:
+        - '&7Status: %pinger_online_mysticalnetwork3.falixsrv.me:34097%'
+        - '&7Players: %pinger_players_mysticalnetwork3.falixsrv.me:34097%/100'
+        - '&7Version: %pinger_gameversion_mysticalnetwork3.falixsrv.me:34097%'
+        - '&7Desc: Die -1 Heart Kill +1 Heart'
+        - '&7(Click To Join)'
+        commands:
+        - server= lifesteal
+      '12':
+        material: IRON_SWORD
+        stack: 1
+        enchanted:
+        - sharpness 5
+        name: '§6Survival'
+        lore:
+        - '&7Status: %pinger_online_mc.mc.mc%'
+        - '&7Players: %pinger_players_mc.mc.mc%/100'
+        - '&7Version: %pinger_gameversion_mc.mc.mc%'
+        - '&7(Server Is &AONLINE&7)'
+        - '&7Desc: Survival Gamemode'
+        - '&7(Click To Join)'
+        commands:
+        - mv tp Survival
+      '13':
+        material: STONE_BRICKS
+        stack: 1
+        enchanted:
+        - sharpness 5000
+        - unbreaking 5000
+        name: '§9SkyWars '
+        lore:
+        - '&7Status: %pinger_online_mc.mc.mc%'
+        - '&7Players: %pinger_players_mc.mc.mc%/100'
+        - '&7Version: %pinger_gameversion_mc.mc.mc%'
+        - '&7Desc: Fight On Floating Islands'
+        - '&7(Click To Join)'
+        commands:
+        - msg= &8[&cSkyWars Is &4Offline &cTry again Later!&8]
+      '14':
+        material: GRASS_BLOCK
+        stack: 1
+        enchanted:
+        - sharpness 5000
+        - unbreaking 5000
+        name: '§aOneBlock '
+        lore:
+        - '&7Status: %pinger_online_mc.mc.mc%'
+        - '&7Players: %pinger_players_mc.mc.mc%/100'
+        - '&7Version: %pinger_gameversion_mc.mc.mc%'
+        - '&7Desc: Regenerating Block For Resources'
+        - '&7(Click To Join)'
+        commands:
+        - msg= &8[&cOneBlock Is &4Offline &cTry again Later!&8]
+      '15':
+        material: OAK_SAPLING
+        stack: 1
+        enchanted:
+        - sharpness 5000
+        - unbreaking 5000
+        name: '§dSkyBlock '
+        lore:
+        - '&7Status: %pinger_online_mc.mc.mc%'
+        - '&7Players: %pinger_players_mc.mc.mc%/100'
+        - '&7Version: %pinger_gameversion_mc.mc.mc%'
+        - '&7Desc: Floating Island gens for resources'
+        - '&7(Click To Join)'
+        commands:
+        - msg= &8[&cSkyBlock Is &4Offline &cTry again Later!&8]
+      '16':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '17':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '18':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '19':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '20':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '21':
+        material: BEACON
+        stack: 1
+        enchanted:
+        - sharpness 5000
+        - unbreaking 5000
+        name: '&bCreative'
+        lore:
+        - '&7Status: %pinger_online_mc.mc.mc%'
+        - '&7Players: %pinger_players_mc.mc.mc%/100'
+        - '&7Version: %pinger_gameversion_mc.mc.mc%'
+        - '&7Desc: Play in a Creative Mode World'
+        - '&7(Click To Join)'
+        commands:
+        - msg= &8[&CCreative Is &4Offline &cTry again Later!&8]
+        
+      '22':
+        material: NETHER_STAR
+        stack: 1
+        name: '&fLobby'
+        lore:
+        - '&7Desc: The server Lobby!'
+        - '&7Other Commands: /hub /spawn & /lobby' 
+        commands:
+        - spawn
+      '23':
+        material: GOLDEN_SWORD
+        stack: 1
+        enchanted:
+        - sharpness 5
+        name: '&eDuels'
+        lore:
+        - '&7Status: %pinger_online_mc.mc.mc%'
+        - '&7Players: %pinger_players_mc.mc.mc%/100'
+        - '&7Version: %pinger_gameversion_mc.mc.mc%'
+        - '&7Desc: 1v1 Your Friends!'
+        - '&7(Click To Join)'
+        commands:
+        - msg= &8[&cDuels Is &4Offline &cTry again Later!&8]
+      '24':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '25':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '26':
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        stack: 1
+        name: ''

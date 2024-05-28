@@ -1,0 +1,5 @@
+Chat:
+  Prefix: '&8[&4SignURLs&8]'
+Sign:
+  Text: SignURLs
+  Color: '&1'

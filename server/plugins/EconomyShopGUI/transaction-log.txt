@@ -1,0 +1,18 @@
+[2024-04-27 01:24:08] - RyanIsCool12650 bought 1 x Golden Carrot(Food.page1.items.8) for $31.71 with the buy screen.
+[2024-04-27 01:24:08] - RyanIsCool12650 bought 1 x Golden Carrot(Food.page1.items.8) for $31.71 with the buy screen.
+[2024-04-27 01:45:42] - you_loser sold 64 x Netherite Ingot(Ores.page1.items.20) for $39,443.20 with the sell all command.
+[2024-04-27 01:45:44] - you_loser sold 64 x Netherite Ingot(Ores.page1.items.20) for $39,443.20 with the sell all command.
+[2024-04-27 01:45:46] - you_loser sold 64 x Netherite Ingot(Ores.page1.items.20) for $39,443.20 with the sell all command.
+[2024-04-27 01:45:47] - you_loser sold 64 x Netherite Ingot(Ores.page1.items.20) for $39,443.20 with the sell all command.
+[2024-04-27 01:45:49] - you_loser sold 64 x Netherite Ingot(Ores.page1.items.20) for $39,443.20 with the sell all command.
+[2024-04-27 01:46:09] - you_loser sold 1x Oak Planks(Blocks.page5.items.183), 1x Oak Log(Blocks.page5.items.182), 130x Netherite Ingot(Ores.page1.items.20) for $80,119.94 with the sell all command.
+[2024-04-27 01:46:22] - you_loser sold 800x Netherite Ingot(Ores.page1.items.20) for $493,040.00 with the sell all command.
+[2024-04-27 01:46:59] - you_loser sold 2304x Netherite Ingot(Ores.page1.items.20) for $1,419,955.19 with the sell all command.
+[2024-04-27 01:48:20] - you_loser sold 64 x Netherite Block(Ores.page1.items.19) for $372,737.28 with the sell all command.
+[2024-04-27 01:48:27] - you_loser sold 2240x Netherite Block(Ores.page1.items.19) for $13,045,804.79 with the sell all command.
+[2024-04-27 01:48:32] - you_loser sold 2304x Netherite Block(Ores.page1.items.19) for $13,418,542.07 with the sell all command.
+[2024-04-27 01:48:37] - you_loser sold 2304x Netherite Block(Ores.page1.items.19) for $13,418,542.07 with the sell all command.
+[2024-04-27 13:55:17] - RyanIsCool12650 bought 1 x Owners Pickaxe :>(Ores.page1.items.25) for $100,000,000 with the buy screen.
+[2024-04-27 13:55:17] - RyanIsCool12650 bought 1 x Owners Pickaxe :>(Ores.page1.items.25) for $100,000,000 with the buy screen.
+[2024-04-27 13:55:17] - RyanIsCool12650 bought 1 x Owners Pickaxe :>(Ores.page1.items.25) for $100,000,000 with the buy screen.
+[2024-04-27 13:55:17] - RyanIsCool12650 bought 1 x Owners Pickaxe :>(Ores.page1.items.25) for $100,000,000 with the buy screen.

@@ -1,0 +1,5 @@
+gamemode_alias:
+  command: /hub
+  type: ALIAS
+  alias: /spawn
+  permission-required: false

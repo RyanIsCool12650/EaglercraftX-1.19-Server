@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716827108951
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716827691762
+  login: 1716826908311
+money: '0.0'
+last-account-name: Mystical_
+lastlocation:
+  world: 6c150585-6c09-4de9-8185-3b5928aebcfd
+  world-name: world
+  x: 25.95329967198056
+  y: 208.7751198597555
+  z: -13.978625787875103
+  yaw: -106.73283386230469
+  pitch: 56.73906326293945
+logoutlocation:
+  world: 6c150585-6c09-4de9-8185-3b5928aebcfd
+  world-name: world
+  x: 36.81566704568537
+  y: 210.23634249372375
+  z: -1.5539469817942093
+  yaw: -66.23282623291016
+  pitch: 48.7890625

@@ -10,7 +10,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&9Mystical&aSMP&f-S3'
+  - '&d&lMystical Network S2'
+  - '&4&lLifesteal &6&lSurvival &a&lOneblock &d&lAnd More!'
   allow_motd: true
   allow_query: true
   request_motd_cache:

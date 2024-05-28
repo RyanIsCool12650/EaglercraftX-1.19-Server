@@ -1,0 +1,5 @@
+gamemode_alias:
+  command: /survival
+  type: ALIAS
+  alias: /mv tp Survival
+  permission-required: false

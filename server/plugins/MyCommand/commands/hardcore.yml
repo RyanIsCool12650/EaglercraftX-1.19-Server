@@ -1,0 +1,5 @@
+gamemode_alias:
+  command: /hardcore
+  type: ALIAS
+  alias: /me &8[&cHardcore Is Coming Soon!&8]
+  permission-required: true

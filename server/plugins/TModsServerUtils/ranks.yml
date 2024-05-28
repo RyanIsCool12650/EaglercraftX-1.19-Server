@@ -1,0 +1,58 @@
+Players:
+  0e6bc8f3-0fb6-3f46-a9e9-280692ddf7a3: '[Admin]'
+  3e51ebc5-9e18-30ce-b509-b1420c5bea9b: '[CoOwner]'
+  03379dc7-5b58-30ef-90b7-77157c3ae70c: '[Owner]'
+  8aaee672-257b-3491-99b9-add1a2ffdb7d: '[Admin]'
+  81488dc6-9079-358e-8f47-3eb037efad7d: '[LEGEND]'
+  0399af42-3f48-3d6c-a7ec-6962ac59e808: Guest
+  71d9ce87-a6e9-3275-9d73-d79b60352cee: Guest
+  d6fa2be9-ce57-300a-bb89-20f1075d32c3: Guest
+Ranks:
+  Guest:
+    name: Guest
+    permissions: []
+    prefix: '[Guest] '
+    suffix: ': '
+    default: true
+  you_loser:
+    name: you_loser
+    permissions: []
+    prefix: 'Admin '
+    suffix: 'admin '
+    default: false
+  '[MOD]':
+    name: '[MOD]'
+    permissions: []
+    prefix: '[MOD] '
+    suffix: ': '
+    default: false
+  '[Owner]':
+    name: '[Owner]'
+    permissions: []
+    prefix: '[Owner] '
+    suffix: ': '
+    default: false
+  '[Admin]':
+    name: '[Admin]'
+    permissions: []
+    prefix: '[Admin] '
+    suffix: ': '
+    default: false
+  '[CoOwner]':
+    name: '[CoOwner]'
+    permissions: []
+    prefix: '[CoOwner] '
+    suffix: ': '
+    default: false
+  Member:
+    name: Member
+    permissions: []
+    prefix: 'Member '
+    suffix: ': '
+    default: false
+  '[LEGEND]':
+    name: '[LEGEND]'
+    permissions: []
+    prefix: '[LEGEND] '
+    suffix: ': '
+    default: false

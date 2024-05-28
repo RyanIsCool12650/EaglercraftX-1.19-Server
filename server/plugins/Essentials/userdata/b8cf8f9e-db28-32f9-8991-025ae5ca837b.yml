@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716752977863
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716753288773
+  login: 1716753271562
+money: '0.0'
+lastlocation:
+  world: 6c150585-6c09-4de9-8185-3b5928aebcfd
+  world-name: world
+  x: 49.027795998515195
+  y: 201.0
+  z: -9.15758928912647
+  yaw: -28.582841873168945
+  pitch: 32.69999313354492
+last-account-name: MrNorshare
+logoutlocation:
+  world: 6c150585-6c09-4de9-8185-3b5928aebcfd
+  world-name: world
+  x: 45.942789709684725
+  y: 211.7856369571473
+  z: -12.830381378946763
+  yaw: 147.81715393066406
+  pitch: 30.93906021118164
